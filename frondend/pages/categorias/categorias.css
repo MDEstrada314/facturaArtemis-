@@ -1,0 +1,43 @@
+body{
+    background-color: #212529;;
+}
+
+.boton{
+    all: unset;
+    color: #ffffff;
+    background-color: #464d53;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.Lboton{
+    margin-right: 20px;
+   
+    display: flex;
+    justify-content: end;
+}
+
+.contenedorr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  }
+  
+  .circulo {
+    margin-top: 15px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(4, 253, 4);
+  
+ 
+
+  }
+
+  i{
+    text-align: center;
+    font-size: 30px;
+  }
